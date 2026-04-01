@@ -1,0 +1,26 @@
+{
+  "name": "Hot Pink Demo",
+  "tagline": "A Demo Brand for Testing",
+  "colors": {
+    "bg_light": "#FFF0F5",
+    "bg_dark": "#4A0028",
+    "text_dark": "#4A0028",
+    "text_light": "#FFF0F5",
+    "text_muted": "#99004D",
+    "accent": "#FF1493",
+    "divider": "#FF1493"
+  },
+  "typography": {
+    "font_heading": "Comic Neue",
+    "font_body": "Comic Neue"
+  },
+  "layout": {
+    "slide_w": 1080,
+    "slide_h": 1080,
+    "padding": 88,
+    "corner_radius": 16
+  },
+  "figma": {
+    "icon_library_file_key": "Io9LLV3Ny4Vb4LIB0G9LLy"
+  }
+}
